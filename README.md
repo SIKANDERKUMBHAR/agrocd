@@ -130,3 +130,6 @@ Led the deployment of scalable applications on AWS EC2 using Kubernetes and Argo
 This project description emphasizes your role in leveraging AWS EC2, Kubernetes, and Argo CD to optimize application deployment and management processes effectively.
 
 
+
+
+
